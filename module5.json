@@ -1,0 +1,28 @@
+{
+    "college_degrees": [
+    {
+        "degree":{
+            "School": "China University of Mining and Technology",
+            "Program/Major": "Accounting",
+            "Type": "BS",
+         "yearConferred": 2014
+        }
+    },
+    {
+        "degree":{
+             "School": "Tulane University",
+             "Program/Major": "Accounting",
+             "Type": "MS",
+             "yearConferred": 2016
+        }
+    },
+      {
+        "degree":{
+            "School": "Boston University",
+            "Program/Major": "Software Development",
+            "Type": "MS",
+            "yearConferred": 2024
+        }
+      }
+    ]
+  }
